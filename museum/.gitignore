@@ -1,0 +1,8 @@
+*.hi
+*.o
+*.cmi
+*.cmo
+
+# Ignore final executables
+haskell 
+ocaml
