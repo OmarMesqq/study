@@ -1,0 +1,6 @@
+output
+*.o
+*.a
+*.so
+*.bin
+a.out
